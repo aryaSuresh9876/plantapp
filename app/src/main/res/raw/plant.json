@@ -1,0 +1,237 @@
+[
+  {
+    "name":"HOUSE PLANTS",
+    "address":"PIPELINE ROAD, THRIKKAKARA",
+    "delivery_charge": 85,
+    "image":"https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/54341/optimized_large_thumb_stage.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Peace lily",
+        "price": 10.00,
+        "url": "https://www.mykyaari.com/wp-content/uploads/2021/06/149564155-106360635-1589345712.jpg"
+      },
+      {
+        "name": "Aglaonema red ruby",
+        "price": 13.99,
+        "url": "https://birthrightforall.com/wp-content/uploads/2021/07/aglaonema-12-570x718.jpg"
+      },
+      {
+        "name": "turtle vine",
+        "price": 4.99,
+        "url": "https://m.media-amazon.com/images/I/41vOZzWKOLL.jpg"
+      },
+      {
+        "name": "water lily",
+        "price": 5.49,
+        "url": "https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/06/water-lily.jpg"
+      },
+      {
+        "name": "pincushion cactus",
+        "price": 4.00,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mammillaria_spinosissima_by_RO.jpg/1200px-Mammillaria_spinosissima_by_RO.jpg"
+      },
+      {
+        "name": "zebra plant",
+        "price": 3.25,
+        "url": "https://5.imimg.com/data5/SELLER/Default/2021/9/KU/NX/CK/86364218/zebra-plant-500x500.jpg"
+      },
+      {
+        "name": "panda plant",
+        "price": 5.49,
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-05-03-at-3-54-47-pm-1556915534.png"
+      },
+      {
+        "name": "aloe vera",
+        "price": 3.99,
+        "url": "https://www.ikea.com/us/en/images/products/aloe-vera-potted-plant__0653978_pe708207_s5.jpg?f=s"
+      },
+      {
+        "name": "Monstera ",
+        "price": 8.09,
+        "url": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-monstera-obliqua-plant.jpg?v=1634224373"
+      },
+      {
+        "name": "Orbifolia",
+        "price": 6.49,
+        "url": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_calathea-orbifolia_small_grant_black.jpg?v=1634559923"
+      }
+    ]
+  },
+  {
+    "name":"PALIMTINTIN",
+    "address":"Toll gate, edapally",
+    "delivery_charge": 4,
+    "image":"https://images-platform.99static.com//5bJtEaPw4JVjNVJlprXQPzm5pLk=/137x135:1362x1361/fit-in/500x500/99designs-contests-attachments/129/129927/attachment_129927926",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Orbifolia",
+        "price": 2.99,
+        "url": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_calathea-orbifolia_small_grant_black.jpg?v=1634559923"
+      },
+      {
+        "name": "Snakeplant",
+        "price": 3.59,
+        "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+      },
+      {
+        "name": "Schefflera",
+        "price": 5.44,
+        "url": "https://greenladybug.com/164-large_default/schefflera.jpg"
+      },
+      {
+        "name": "Wax Begonia",
+        "price": 2.00,
+        "url": "https://www.thespruce.com/thmb/MZgW4TVYQZ6aclB9cbcssDb0kR0=/2195x2195/smart/filters:no_upscale()/KaraRileyWaxBegonias-22-dcf22f310a00457e8c926a39ce88b066.jpg"
+      },
+      {
+        "name": "orchid",
+        "price": 3.49,
+        "url": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Orchidaceae/amerorchis-rotundifolia-in-dcameron.jpg"
+      },
+      {
+        "name": "pin-stripe calathea",
+        "price": 4.95,
+        "url": "https://thecitywild.com/wp-content/uploads/2020/02/pinstripe-calathea-scaled-1-819x1024.jpg"
+      },
+      {
+        "name": "hydrangea",
+        "price": 3.59,
+        "url": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-hydrangea-macrophylla-blue-plant_a36409e1-111d-42ee-b9f0-acdb8b24e739.jpg?v=1634222086"
+      },
+      {
+        "name": "Philodendron imbe",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57uHArCfgrbtAQ6U1QpljZ4T5-pQgC6fUqg&usqp=CAU"
+      },
+      {
+        "name": "jasmine",
+        "price": 3.99,
+        "url": "https://gilmour.com/wp-content/uploads/2019/05/Jasmine-Care.jpg"
+      },
+      {
+        "name": "Paper flower",
+        "price": 8.29,
+        "url": "https://m.media-amazon.com/images/I/61BI2MIKoYL._SY679_.jpg"
+      },
+      {
+        "name": "wandering jew",
+        "price": 6.99,
+        "url": "https://rukminim2.flixcart.com/image/416/416/kyeqjrk0/plant-sapling/w/b/p/yes-annual-yes-jrs57-1-angel-original-imagangdqzh6mhby.jpeg?q=70"
+      }
+    ]
+  },
+  {
+    "name":"NICHE",
+    "address":"auriga street, pukkattupady",
+    "delivery_charge": 5,
+    "image":"https://i.pinimg.com/736x/1a/90/52/1a9052a24fd2f4c1e3e56fb825f0cc24.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "spider plant",
+        "price": 4.95,
+        "url": "https://wildroots.in/wp-content/uploads/2020/10/Untitled-design-2021-07-24T115623.917.jpg"
+      },
+      {
+        "name": "Schefflera",
+        "price": 3.59,
+        "url": "https://greenladybug.com/164-large_default/schefflera.jpg"
+      },
+      {
+        "name": "creeping inch plant",
+        "price": 5.49,
+        "url": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-creeping-fig-pant-ficus-pumila-plant-1_52c8ac5c-5ede-48cc-b848-342a9a928b22_525x700.jpg?v=1635240364"
+      },
+      {
+        "name": "pennywort",
+        "price": 3.99,
+        "url": "https://cdn11.bigcommerce.com/s-zlozzyl4vj/images/stencil/1280x1280/products/3696/1179/POTTED_Pennywort_Brazilian_12957_copy__79998.1568926193.jpg?c=1"
+      },
+      {
+        "name": "mosaic plant",
+        "price": 8.29,
+        "url": "https://pondinformer.com/wp-content/uploads/2020/08/mosaic-plant-planting.jpg"
+      },
+      {
+        "name": "panda plant",
+        "price": 6.99,
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-05-03-at-3-54-47-pm-1556915534.png"
+      }
+    ]
+  },
+  {
+    "name":"Interiors",
+    "address":"grandville street 9, thrikkakkara",
+    "delivery_charge": 6,
+    "image":"https://templates.expert/wp-content/uploads/2021/07/Logo-Plants-In-Pots-For-Room-Decoration-Fresh-Green-Plants-To-Clean-The-Air.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Zz plant",
+        "price": 4.00,
+        "url": "https://horticult.co/spree/products/1710/original/Zamioculcas-Zamiifolia-plant-seeds-Online-Horticult.jpeg?1615404310"
+      },
+      {
+        "name": "pothos",
+        "price": 3.25,
+        "url": "https://www.gardenstuff.it/36441-large_default/pothos-epipremnum-aureum-or-scindapsus-aurens.jpg"
+      },
+      {
+        "name": "fiddle leaf fig",
+        "price": 5.49,
+        "url": "https://www.mykyaari.com/wp-content/uploads/2021/09/fiddle_Leaf_fig_4.jpg"
+      },
+      {
+        "name": "spider plant",
+        "price": 3.99,
+        "url": "https://wildroots.in/wp-content/uploads/2020/10/Untitled-design-2021-07-24T115623.917.jpg"
+      },
+      {
+        "name": "Aglaonema red ruby",
+        "price": 8.09,
+        "url": "https://birthrightforall.com/wp-content/uploads/2021/07/aglaonema-12-570x718.jpg"
+      },
+      {
+        "name": "Schefflera",
+        "price": 6.49,
+        "url": "https://greenladybug.com/164-large_default/schefflera.jpg"
+      }
+    ]
+  }
+]
